@@ -205,12 +205,12 @@ For future projects, this serves as a great base for beginning to understand oth
 
 # About Myself
 
-🎯 I am a Fullstack developer in love with technology and keen to learn new things everyday. My strenghts reside in Python and JavaScript although I am not afraid to take on any other language.
+🎯 I am an entry-level backend developer hoping to be a fullstack developer in the coming years. I want to master Python, C++ and more programming languages that are currently in use.
 
-🎯 I have experience developing both back end and front end. I have used technologies such as Bootstrap, SASS, React, Flask, Django, Express, SQL, MongoDB, AWS, among others.
+🎯 I have been learning coding and programming for 3 years now. Currently I have experience in C, C++, Python, JavaScript, SQL, Visual Basic.net, HTML and CSS.
 
-🎯 I also studied Sound Engineering some years ago, and I love music, videogames, and audiovisual media.
+🎯 I am currently a student at the University of Johannesburg, doing BSc in Info Tech in Computer Science and Informatics Extended.
 
-🔹 [LinkedIn](https://www.linkedin.com/in/jhoan-stiven-zamora-caicedo/)
+🔹 [LinkedIn](https://www.linkedin.com/in/lesedi-mokoena-192062235)
 
-🔹 [Twitter](https://twitter.com/JhoanZamora10)
+🔹 [X](https://x.com/Lesedi-Bunny-Mokoena)
